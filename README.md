@@ -197,8 +197,19 @@ Secuencia de Fibonacci (2 elementos):
 | 8 | 1.592615 | 3.7081 | 0.4635 |
 
 **Ts (serial) = 5.906052 segundos**
+---
+
+
+
+
+## 10. Video de sustentación
+
+https://drive.google.com/file/d/1hQ6m0bE2FNY6_lttCvEU9yu8SKVyVP9w/view?usp=sharing
 
 ---
+
+
+
 
 ## 10. Conclusiones
 
