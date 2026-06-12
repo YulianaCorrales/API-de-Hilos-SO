@@ -201,7 +201,6 @@ Secuencia de Fibonacci (2 elementos):
 
 
 
-
 ## 10. Video de sustentación
 
 https://drive.google.com/file/d/1hQ6m0bE2FNY6_lttCvEU9yu8SKVyVP9w/view?usp=sharing
@@ -209,9 +208,7 @@ https://drive.google.com/file/d/1hQ6m0bE2FNY6_lttCvEU9yu8SKVyVP9w/view?usp=shari
 ---
 
 
-
-
-## 10. Conclusiones
+## 11. Conclusiones
 
 1. **La paralelización mejora el rendimiento pero no de forma lineal.** Con 8 hilos se obtuvo un Speedup de ~3.7, lejos del ideal de 8. Esto confirma que existen costos inherentes al paralelismo que limitan la ganancia real.
 
@@ -229,21 +226,20 @@ https://drive.google.com/file/d/1hQ6m0bE2FNY6_lttCvEU9yu8SKVyVP9w/view?usp=shari
 
 ---
 
-## 11. Manifiesto de transparencia — Uso de IA generativa
+## 12. Manifiesto de transparencia — Uso de IA generativa
 
 Durante el desarrollo de esta práctica se utilizó **Claude (Anthropic)** como apoyo en los siguientes puntos:
 
-- **Configuración del entorno:** Guía paso a paso para instalar WSL2, Ubuntu 22.04 y VS Code en Windows desde cero, incluyendo la resolución de errores de instalación.
 - **Generación del código base:** Los archivos `pi.c`, `pi_p.c` y `fibonacci.c` fueron generados con asistencia de IA y revisados para verificar que cumplen con los requisitos del enunciado.
 - **Depuración de errores:** Resolución de errores de compilación (`undefined reference to main`), errores de entorno (`Command 'code' not found`) y errores de ejecución en Python (`ValueError` de dígitos).
-- **Generación del notebook:** La estructura del archivo `analisis.ipynb` y el código de análisis fueron generados con asistencia de IA.
+- **Generación del notebook:** La estructura del archivo `analisis.ipynb` y el código de análisis fueron generados con ayuda de IA.
 - **Redacción del README:** Este documento fue generado con asistencia de IA a partir de los resultados reales obtenidos en la máquina.
 
 Todo el código fue ejecutado, probado y verificado por la estudiante en su entorno local.
 
 ---
 
-## 12. Referencias
+## 13. Referencias
 
 - Arpaci-Dusseau, R. & Arpaci-Dusseau, A. *Operating Systems: Three Easy Pieces*.
   - Capítulo 26: Threads Intro
